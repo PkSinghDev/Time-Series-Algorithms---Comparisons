@@ -1,5 +1,5 @@
 # Time-Series-Algorithms---Comparisons
-## Compare Performances of various Time Series Algorithms
+## Compare Performances of various Time Series Algorithms on Covid 19 Confirmed cases globally
 #### Project Overview <br />
 Overview:: In this Project we shall look at the following points :- </br>
 a. The basics of Time-Series</br>
